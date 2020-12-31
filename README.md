@@ -1,6 +1,9 @@
 # pong_game_with_python
 You need to use python 3.6 or upper.
 
+# User note:
+'''use "w", "s" to move left bat''' and '''use "up arrow" and "down arrow" to move right bat.'''
+
 # Replacement
 *** if you are in Linux replace these line with the code below--
 
