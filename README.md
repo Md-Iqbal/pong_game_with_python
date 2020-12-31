@@ -2,7 +2,7 @@
 You need to use python 3.6 or upper.
 
 # Replacement
-if you are in Linux replace these line with the code below--
+*** if you are in Linux replace these line with the code below--
 
 replace line 2 with--> import os
 
@@ -12,7 +12,7 @@ replace line 138, 146 with--> os.system("aplay score.wav&")
     
 
 
-if you are in Mac replace these line with the code below--
+*** if you are in Mac replace these line with the code below--
 
 replace line 2 with--> import os
 
