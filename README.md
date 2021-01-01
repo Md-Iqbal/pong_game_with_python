@@ -6,7 +6,7 @@ You need to use python 3.6 or upper.
 
 # User Manual video
 
-![](user_menual.mp4)
+https://user-images.githubusercontent.com/50297349/103436271-e1381180-4c43-11eb-983f-f707af4af737.mp4
 
 
 # Replacement
